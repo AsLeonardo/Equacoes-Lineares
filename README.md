@@ -14,3 +14,6 @@ Necessário a instalação e utilização da linguagem, **Python**;
       Abra o terminal (CMD, Command Prompt) neste local (ou execute "cd "local do arquivo"")  
         Insira o seguinte comando;  
           "python calc.py"  
+
+# Link para o repositório do Git
+https://github.com/AsLeonardo/Equacoes-Lineares
